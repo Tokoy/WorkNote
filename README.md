@@ -1,2 +1,2 @@
 # WorkNote
-主要用来记录工作上的一些笔记
+Memo some note and Set some goal in 2017，make life colorful！ 
